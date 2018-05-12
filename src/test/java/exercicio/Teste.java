@@ -1,8 +1,8 @@
-package exercicio1;
+package exercicio;
 
 import org.junit.Test;
 
-public class MeuPrimeiroTeste {
+public class Teste {
 	
 	@Test
 	public void teste1(){
