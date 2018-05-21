@@ -12,7 +12,7 @@ import votacao.Votacao;
 
 	@RunWith(Parameterized.class)
 	public class ValidarIdadePorVotacao_Parametros {
-
+		//referência no Parameters
 		@Parameter(0) public String nome;
 		@Parameter(1) public int anoDeNascimento;
 		@Parameter(2) public String resultado;
